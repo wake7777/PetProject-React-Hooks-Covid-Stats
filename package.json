@@ -1,7 +1,6 @@
 {
   "name": "react-hooks",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -19,5 +18,17 @@
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^2.0.7"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wake7777/PetProject-React-Hooks-Covid-Stats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wake7777/PetProject-React-Hooks-Covid-Stats/issues"
+  },
+  "homepage": "https://github.com/wake7777/PetProject-React-Hooks-Covid-Stats#readme",
+  "description": ""
 }
